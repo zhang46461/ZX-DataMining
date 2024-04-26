@@ -16,11 +16,13 @@
 
 ![1c5aad808c69319b8509ea9aa59361e1](https://github.com/zhang46461/ZX-DataMining/assets/149031189/39ce5627-8eb2-4adb-b1ca-a566056b4859)
 
-### 4.数据挖掘演讲PPt导入仓库
+### 4.数据挖掘演讲PPt上传库中
 
 点击Upload files按钮
 ![08654bf06a127ef9dc94bc7028164e2c](https://github.com/zhang46461/ZX-DataMining/assets/149031189/5ac2eb6b-8946-4c4a-a142-09ab052aaebf)
 
+将ppt上传仓库库里，点击Commit changes绿色按钮完成上传
+![ce0f4f27587fbc3fe80d6b296fdd6fb1](https://github.com/zhang46461/ZX-DataMining/assets/149031189/6a2cd8e1-54cd-4d35-a115-b4a643e98d64)
 
 
 
@@ -41,6 +43,16 @@
 6.部署和应用： 将训练好的生成模型部署到实际应用中，用于生成新的数据或执行其他任务。
 
 Gan模型
+![image](https://github.com/zhang46461/ZX-DataMining/assets/149031189/87ca2795-1378-41d9-ac9c-dc0434e98222)
+
+Flow模型
+![image](https://github.com/zhang46461/ZX-DataMining/assets/149031189/f4292bf1-e2a7-4849-9191-a0128fc8f212)
+
+未来的目标是学习如何将生成模型运用到文本问答的处理中
+
+
+
+
 
 
 
