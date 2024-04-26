@@ -1,4 +1,4 @@
-# ZX-DataMining
+![08654bf06a127ef9dc94bc7028164e2c](https://github.com/zhang46461/ZX-DataMining/assets/149031189/0321b2df-d2ce-46b3-b966-88880c5a03b8)# ZX-DataMining
 
 ## 一.注册GitHub账户、
 已经有GitHub账户，不用再注册
@@ -16,8 +16,13 @@
 
 ![1c5aad808c69319b8509ea9aa59361e1](https://github.com/zhang46461/ZX-DataMining/assets/149031189/39ce5627-8eb2-4adb-b1ca-a566056b4859)
 
-数据挖掘演讲PPt
-[数据挖掘.pptx](https://github.com/zhang46461/ZX-DataMining/files/15130135/default.pptx)
+### 4.数据挖掘演讲PPt导入仓库
+
+点击Upload files按钮
+![08654bf06a127ef9dc94bc7028164e2c](https://github.com/zhang46461/ZX-DataMining/assets/149031189/5ac2eb6b-8946-4c4a-a142-09ab052aaebf)
+
+
+
 
 
 ### 三.希望学习或获得的计算机技能
