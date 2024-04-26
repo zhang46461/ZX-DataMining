@@ -1,4 +1,4 @@
-![08654bf06a127ef9dc94bc7028164e2c](https://github.com/zhang46461/ZX-DataMining/assets/149031189/0321b2df-d2ce-46b3-b966-88880c5a03b8)# ZX-DataMining
+# ZX-DataMining
 
 ## 一.注册GitHub账户、
 已经有GitHub账户，不用再注册
