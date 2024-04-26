@@ -13,6 +13,7 @@
 ![cbfdfbfcc2a5a484e44729afbd248c37](https://github.com/zhang46461/ZX-DataMining/assets/149031189/4bd05fc2-3d7c-418a-8a59-e196c8ca9d79)
 
 ### 3.最后完成创建仓库
+
 ![1c5aad808c69319b8509ea9aa59361e1](https://github.com/zhang46461/ZX-DataMining/assets/149031189/39ce5627-8eb2-4adb-b1ca-a566056b4859)
 
 数据挖掘演讲PPt
@@ -21,6 +22,7 @@
 
 ### 三.希望学习或获得的计算机技能
 对于生成模型的学习
+
 1.数据收集和预处理： 收集并准备用于训练的数据。这可能涉及数据清洗、标记和转换等预处理步骤。
 
 2.选择模型架构： 根据任务和数据的特点选择适当的生成模型架构，如循环神经网络（RNN）、变分自编码器（VAE）、生成对抗网络（GAN）等。
