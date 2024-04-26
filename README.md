@@ -15,6 +15,7 @@
 ### 3.最后完成创建仓库
 ![1c5aad808c69319b8509ea9aa59361e1](https://github.com/zhang46461/ZX-DataMining/assets/149031189/39ce5627-8eb2-4adb-b1ca-a566056b4859)
 
+数据挖掘演讲PPt
 [数据挖掘.pptx](https://github.com/zhang46461/ZX-DataMining/files/15130135/default.pptx)
 
 
