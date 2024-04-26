@@ -13,6 +13,11 @@
 ![cbfdfbfcc2a5a484e44729afbd248c37](https://github.com/zhang46461/ZX-DataMining/assets/149031189/4bd05fc2-3d7c-418a-8a59-e196c8ca9d79)
 
 ### 3.最后完成创建仓库
+![1c5aad808c69319b8509ea9aa59361e1](https://github.com/zhang46461/ZX-DataMining/assets/149031189/39ce5627-8eb2-4adb-b1ca-a566056b4859)
+
+### 三.希望学习或获得的计算机技能
+
+
 
 
 
